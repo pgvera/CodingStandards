@@ -5,7 +5,7 @@ package labcodingstandards;
 
 import java.util.Scanner;
 /**
- * @author Pedro Vera
+ * @author Pedro
  */
 public class Calculator {
     // CHECKSTYLE: OFF/
